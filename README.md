@@ -1,5 +1,9 @@
 # DepCheck
 
+![Tests](https://github.com/MauExpl01t/depcheck/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Revisor de dependencias vulnerables en Python, hermano de
 [WebScan](../webscan), [SubdomainEnum](../subdomain-enum),
 [PwCheck](../pwcheck) y [GitSecrets](../gitsecrets). Revisa cada paquete
