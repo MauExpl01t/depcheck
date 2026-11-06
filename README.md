@@ -23,6 +23,10 @@ abierto que mantienen Google y la comunidad — la misma fuente que usan
 3. Pide el detalle de cada ID único encontrado (descripción, severidad,
    versión que la corrige).
 
+## Demo
+
+![Demo de DepCheck](./assets/demo.svg)
+
 ## Instalación (Windows / PowerShell)
 
 ```powershell
