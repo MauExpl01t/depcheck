@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Revisor de dependencias vulnerables en Python, hermano de
-[WebScan](../webscan), [SubdomainEnum](../subdomain-enum),
-[PwCheck](../pwcheck) y [GitSecrets](../gitsecrets). Revisa cada paquete
+[WebScan](https://github.com/MauExpl01t/webscan), [SubdomainEnum](https://github.com/MauExpl01t/subdomain-enum),
+[PwCheck](https://github.com/MauExpl01t/pwcheck) y [GitSecrets](https://github.com/MauExpl01t/gitsecrets). Revisa cada paquete
 de tu `requirements.txt` o `package.json` contra **OSV.dev** (Open Source
 Vulnerabilities), la base de datos pública de vulnerabilidades de código
 abierto que mantienen Google y la comunidad — la misma fuente que usan
